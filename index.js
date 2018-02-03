@@ -21,24 +21,21 @@ return  n -= 1
 
 }
 function makeInt(n) {
-    return parseInt(a, 10)
+    return parseInt(n, 10)
   }
-  var a="2.222"
-  console.log(parseInt(a, 10))
+  var n="2.222"
+  console.log(parseInt(n, 10))
   a=0*2328
-  console.log(parseInt(a, 10))
+  console.log(parseInt(n, 10))
   a="sldkjflksjf"
-  return parseInt(a, 10)
+  return parseInt(n, 10)
 }
 function preserveDecimal(n) {
-  return parseFloat(a)
+  return parseFloat(n)
   }
-  else {
-    console.log("NaN")
-  }
-  var a="2.222"
-  return parseFloat(a)
-  a="sldkjflksjf"
-  return parseFloat(a)
+    var n="2.222"
+  return parseFloat(n)
+  n="sldkjflksjf"
+  return parseFloat(n)
   }
 
