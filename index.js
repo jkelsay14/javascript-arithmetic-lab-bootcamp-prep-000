@@ -21,7 +21,7 @@ return  n -= 1
 
 }
 function makeInt(n) {
-    return (parseInt(a, 10))
+    return parseInt(a, 10)
   }
   else console.log("NaN")
   var a="2.222"
