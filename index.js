@@ -29,7 +29,6 @@ function makeInt(n) {
   console.log(parseInt(n, 10))
   n="sldkjflksjf"
   console.log(parseInt(n, 10))
-}
 function preserveDecimal(n) {
   return parseFloat(n)
   }
