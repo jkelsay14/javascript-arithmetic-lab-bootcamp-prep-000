@@ -31,8 +31,7 @@ function makeInt(n) {
   return parseInt(a, 10)
 }
 function preserveDecimal(n) {
-  if (a=parseFloat(a)) {
-    console.log(parseFloat(a))
+  return parseFloat(a)
   }
   else {
     console.log("NaN")
