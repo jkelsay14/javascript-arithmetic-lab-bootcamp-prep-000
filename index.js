@@ -35,6 +35,6 @@ function preserveDecimal(n) {
     var n="2.222"
   console.log(parseFloat(n))
   n="sldkjflksjf"
-  return parseFloat(n)
+  console.log(parseFloat(n))
   
 
