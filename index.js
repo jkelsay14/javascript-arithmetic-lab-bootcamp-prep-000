@@ -25,10 +25,10 @@ function makeInt(n) {
   }
   var n="2.222"
   console.log(parseInt(n, 10))
-  a=0*2328
+  n=0*2328
   console.log(parseInt(n, 10))
-  a="sldkjflksjf"
-  return parseInt(n, 10)
+  n="sldkjflksjf"
+  console.log(parseInt(n, 10))
 }
 function preserveDecimal(n) {
   return parseFloat(n)
