@@ -23,7 +23,6 @@ return  n -= 1
 function makeInt(n) {
     return parseInt(a, 10)
   }
-  
   var a="2.222"
   console.log(parseInt(a, 10))
   a=0*2328
